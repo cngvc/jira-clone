@@ -21,8 +21,8 @@ const AuthLayout = ({ children }: AuthLayoutProps) => {
           <Image
             src="/logo.png"
             alt="logo"
-            width={108}
-            height={47}
+            width={90}
+            height={39}
             className="object-contain"
           />
           <Button asChild variant="secondary">
